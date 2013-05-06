@@ -1,0 +1,2 @@
+architect-upgrade-type-error
+============================
